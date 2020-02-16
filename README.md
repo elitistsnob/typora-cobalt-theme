@@ -7,4 +7,13 @@ A dark theme inspired by Wes Bos's [Cobalt 2](https://www.github.com/wesbos) Sub
 ![Latest Release Date](https://img.shields.io/github/release-date/elitistsnob/typora-cobalt-theme)
 ![Download Count](https://img.shields.io/github/downloads/elitistsnob/typora-cobalt-theme/total)
 
+#### If you like this theme, consider donating. 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R51EVX9)
 
+![Splash screen](images/screenshot1.png)
+
+![Splash screen](images/screenshot2.png)
+
+![Splash screen](images/screenshot3.png)
+
+![Splash screen](images/screenshot4.png)
